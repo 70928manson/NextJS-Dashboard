@@ -1,7 +1,5 @@
 # NextJS Dashboard
 
-> 本專案為實作Github OAuth登入, 並使用Github api透過issue作為任務追蹤管理工具。
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
