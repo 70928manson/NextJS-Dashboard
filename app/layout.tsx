@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     template: '%s | Manson Dashboard',
     default: 'Manson Dashboard',
   },
-  description: 'The official Next.js Dashboard, built with App Router.',
+  description: 'The Next.js Dashboard, built with App Router.',
   metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
 }
 
